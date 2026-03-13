@@ -21,17 +21,20 @@ A Flask-based web application for industrial quality inspection of Toyota car pa
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/chandrakumar301/toyo.git
 cd toyo
 ```
 
 2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 3. Run the application:
+
 ```bash
 python app.py
 ```
